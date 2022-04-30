@@ -1,2 +1,2 @@
 # TDD-.net
-TDD with mock and stund. Using Selenium (test interfaces) and Xunit
+TDD (mocks and stubs). Using Selenium (test interfaces) and Xunit
